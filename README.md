@@ -13,7 +13,7 @@ At receiver side, after we receive the data from the receive ham radio, we do th
 - Date: Apr. 2018
 
 ## Team Member
-- Xiuneng Lu
+- Xiuneng Lu ([@lUxIUNENG](https://github.com/LuXiuneng))
 - Hao He
 
 ## Key Algorithm 
