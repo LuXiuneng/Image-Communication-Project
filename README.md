@@ -12,6 +12,11 @@ The aim of the project is to send the best quality image in 75 seconds using ham
 - Xiuneng Lu
 - Hao He
 
+## Key Algorithm 
+- Data Compression: JPEG & GZip
+
+- Data Transmission: ASFK1200
+
 ## Demo
 Here's our Demo Video:
 [![Imagine Communication Project DEMO](EE123_figure.png)](https://youtu.be/uB5SvKIxKjo)
